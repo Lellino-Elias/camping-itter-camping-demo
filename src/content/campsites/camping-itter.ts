@@ -34,7 +34,7 @@ const campingItter: CampsiteConfig = {
     {
       title: "Terrassenplätze am Hang",
       text: "Die großen Terrassenplätze liegen gestaffelt am Hang — mit Strom, Kabel-TV, WLAN und Bergblick.",
-      image: { src: `${IMG}/luftbild-stellplaetze.webp`, alt: "Terrassencamping Schlossberg Itter Sommerlage aus der Luft mit Stellplätzen" },
+      image: { src: `${IMG}/hero-luftbild-sommer.webp`, alt: "Camping Schlossberg Itter aus der Luft im Winter — Terrassenanlage am Hang unter Schloss Itter" },
     },
     {
       title: "Beheiztes Freibad",
@@ -78,7 +78,7 @@ const campingItter: CampsiteConfig = {
       {
         title: "Großzügige Terrassenplätze",
         text: "200 Plätze von 80 bis 120 m², gestaffelt auf sonnigen Terrassen mit Strom, Wasser und Abwasser direkt am Platz.",
-        image: { src: `${IMG}/hero-luftbild-sommer.webp`, alt: "Camping Schlossberg Itter aus der Luft im Winter — Terrassenanlage und Schloss Itter" },
+        image: { src: `${IMG}/luftbild-stellplaetze.webp`, alt: "Großzügige Terrassenplätze von Camping Schlossberg Itter im Sommer aus der Luft" },
       },
       {
         title: "Camping auch im Winter",

@@ -83,7 +83,7 @@ const campingItter: CampsiteConfig = {
       {
         title: "Camping auch im Winter",
         text: "Im Winter liegt der Platz mitten im SkiWelt Wilder Kaiser–Brixental — der Skibus fährt direkt zur Hohen Salve.",
-        image: { src: `${IMG}/wintercamping.webp`, alt: "Wintercamping am Schlossberg Itter im Schnee" },
+        image: { src: `${IMG}/wintercamping.webp`, alt: "Camping Schlossberg Itter im Winter — Hauptgebäude und Stellplätze im tiefen Schnee, Schloss Itter im Hintergrund" },
       },
     ],
   },
